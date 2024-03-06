@@ -19,6 +19,11 @@ namespace WindowsFormsApp8
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //carolin fa schifo
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
 
         }
     }
