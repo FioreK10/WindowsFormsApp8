@@ -24,7 +24,7 @@ namespace WindowsFormsApp8
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //asdasd
+
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
